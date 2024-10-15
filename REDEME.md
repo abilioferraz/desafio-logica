@@ -1,9 +1,9 @@
 # Projeto: CRIANDO O MARCADOR DO HERÓI
 
-<img src="https://github.com/abilioferraz/DETONA-RALPH/blob/main/src/imagens/ralph_logo.png" alt="ilustração presente na pasta imagens" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="src/imagens/DALL·E 2024-10-15 12.00.28 - A detailed programming flowchart illustrating the classification of a hero's experience level (XP) in JavaScript. The flowchart should start with an '.webp">
 
 📋 Sobre o Projeto
-Este projeto tem como objetivo [descrever brevemente a finalidade e funcionalidades principais do projeto]. Através dele, estou explorando novas tecnologias e aplicando habilidades de desenvolvimento em front-end e back-end.
+Este projeto tem como objetivo aplicar algumas funcionalidades de JavaScript. Para este projeto utilizei Variaveis, Operadores, Estruturas de decisões e Mensagens no console.
 
 ## 👤 Sobre Mim
 - 🙋‍♂️ Abilio Ferraz:
@@ -22,7 +22,7 @@ Este projeto tem como objetivo [descrever brevemente a finalidade e funcionalida
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🖥️ Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
